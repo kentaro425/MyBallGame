@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{E0521D24-8F42-06EC-C355-FF857D7CB327}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ScriptsFolder/BallFactoryScript.cs">
+    <Files>
+      <File FileName="Assets/ScriptsFolder/PaddleScript.cs" Line="13" Column="15" />
+      <File FileName="Assets/ScriptsFolder/BallScript.cs" Line="17" Column="80" />
+      <File FileName="Assets/ScriptsFolder/BallFactoryScript.cs" Line="7" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyBallGame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="ScriptsFolder" expanded="True">
+                <Node name="BallFactoryScript.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="00ab801d-128f-4d2c-9a85-8fa3b3aeef8f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
